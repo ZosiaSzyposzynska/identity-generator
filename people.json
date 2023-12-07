@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Szymon",
+    "secondName": "Tomczyk",
+    "age": 35,
+    "gender": "M"
+  },
+  {
+    "name": "Basia",
+    "secondName": "Zew",
+    "age": 44,
+    "gender": "F"
+  },
+  {
+    "name": "Zosia",
+    "secondName": "Nowak",
+    "age": 19,
+    "gender": "F"
+  },
+  {
+    "name": "Basia",
+    "secondName": "Zew",
+    "age": 60,
+    "gender": "F"
+  },
+  {
+    "name": "Asia",
+    "secondName": "Ber",
+    "age": 60,
+    "gender": "F"
+  },
+  {
+    "name": "Zosia",
+    "secondName": "Nowak",
+    "age": 71,
+    "gender": "F"
+  },
+  {
+    "name": "Kasia",
+    "secondName": "Zew",
+    "age": 56,
+    "gender": "F"
+  },
+  {
+    "name": "Bartek",
+    "secondName": "Nowak",
+    "age": 74,
+    "gender": "M"
+  },
+  {
+    "name": "Kasia",
+    "secondName": "Tomczyk",
+    "age": 20,
+    "gender": "F"
+  },
+  {
+    "name": "Kacper",
+    "secondName": "Nowak",
+    "age": 75,
+    "gender": "M"
+  },
+  {
+    "name": "Karol",
+    "secondName": "Podsiadło",
+    "age": 36,
+    "gender": "M"
+  },
+  {
+    "name": "Asia",
+    "secondName": "Nowak",
+    "age": 35,
+    "gender": "F"
+  },
+  {
+    "name": "Asia",
+    "secondName": "Podsiadło",
+    "age": 53,
+    "gender": "F"
+  },
+  {
+    "name": "Karol",
+    "secondName": "Zew",
+    "age": 19,
+    "gender": "M"
+  },
+  {
+    "name": "Karol",
+    "secondName": "Tomczyk",
+    "age": 19,
+    "gender": "M"
+  },
+  {
+    "name": "Szymon",
+    "secondName": "Ber",
+    "age": 46,
+    "gender": "M"
+  },
+  {
+    "name": "Piotr",
+    "secondName": "Tomczyk",
+    "age": 42,
+    "gender": "M"
+  },
+  {
+    "name": "Piotr",
+    "secondName": "Tomczyk",
+    "age": 52,
+    "gender": "M"
+  },
+  {
+    "name": "Basia",
+    "secondName": "Podsiadło",
+    "age": 30,
+    "gender": "F"
+  },
+  {
+    "name": "Szymon",
+    "secondName": "Ber",
+    "age": 78,
+    "gender": "M"
+  }
+]
